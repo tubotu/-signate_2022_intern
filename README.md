@@ -2,7 +2,7 @@
 SIGNATE 22卒インターン選考コンペティション（予測モデル部門）優勝(https://signate.jp/competitions/411)
 モデリング概要は　https://signate.jp/competitions/402/discussions/120210204
 
-##　コード使い方
+## コード使い方
 bert_learning.py 
 making_bert_features.py 
 preprocessing.py 
