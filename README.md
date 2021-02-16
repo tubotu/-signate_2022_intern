@@ -1,5 +1,6 @@
 # signate_2022_intern
 SIGNATE 22卒インターン選考コンペティション（予測モデル部門）優勝(https://signate.jp/competitions/411)
+
 モデリング概要は　https://signate.jp/competitions/402/discussions/120210204
 
 ## コード使い方
